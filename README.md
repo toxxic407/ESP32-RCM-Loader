@@ -41,3 +41,10 @@ Firmware for the **ESP32-S3-DevKitC-1 (N16R8V)** that injects RCM payloads into 
 4. Transfer the Payload you want to use onto it and name it `payload.bin` or `PAYLOAD.BIN`
 5. PRESS EJECT SAFELY!
 6. Disconnect the Device
+
+Credit:
+Kate Temkin (@ktemkin) and shuffle2 from fail0verflow for independently discovering the Exploit
+dylwedma11748 (Dynamic relocation is largely based off off https://github.com/dylwedma11748/JTegraNX)
+tanakamasayuki for https://github.com/tanakamasayuki/EspUsbHost which is used for USB Communication with the Switch
+
+
