@@ -44,7 +44,9 @@ Firmware for the **ESP32-S3-DevKitC-1 (N16R8V)** that injects RCM payloads into 
 
 Credit:
 Kate Temkin (@ktemkin) and shuffle2 from fail0verflow for independently discovering the Exploit
+
 dylwedma11748 (Dynamic relocation is largely based off off https://github.com/dylwedma11748/JTegraNX)
+
 tanakamasayuki for https://github.com/tanakamasayuki/EspUsbHost which is used for USB Communication with the Switch
 
 
